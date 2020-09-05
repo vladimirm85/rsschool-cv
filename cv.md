@@ -9,17 +9,42 @@
 ### Summary
 
 
-### Skills
 
+### Skills
+**Javascript:** ES2015, ES6, REST API, Express, Promise, Async / Await, Axios, Generators, Event Loop  
+**React:** ReactJS, Mobx, Redux Thunk, Redux Saga, React Router, Recompose, Reselect  
+**Databases:** Strapi, Firebase  
+**UI:** Material-UI, Bootstrap  
+**Forms:** React Final Form  
+**Design tool:** Figma, Photoshop  
+**Typescript**  
+**Tests:** Jest + Enzyme  
+**IDE:** WebStorm, VS Code  
+**OS:** Windows, Linux Ubuntu  
+**SVN:** Git  
 
 ### Code examples
 
 
 ### Experience
-
+1. [TODO](https://github.com/vladimirm85/REACT-TODO) - ReactJS, Redux Thunk, React Router; [BE](https://github.com/vladimirm85/HerokuServerForTodo)
+2. [Online store](https://github.com/vladimirm85/REACT-ONLINE-STORE) - ReactJS, Mobx, Bootstrap
+3. [Users list](https://github.com/vladimirm85/USERS-LIST) - ReactJS, Redux Saga, Typescript, Firebase,
+Authorization (Firebase), React Final Form, Material-UI
+4. [Users birthdays](https://github.com/vladimirm85/months-userslist) - ReactJS, Typescript, Axios,
+Material-UI
+5. [Polls](https://github.com/vladimirm85/REACT-REDUX-POLLS) - ReactJS, React Router, Redux Thunk
 
 ### Education
- 
+ **Zaporizhia National Technical University (ZNTU)**  
+ Department: Engineering Technology  
+ Specialty: Engineering Technology  
+ Qualification: Specialist  
 
 ### English
-
+Studied at school  
+practice:  
+1. reading technical documents
+2. watching courses, seminars, lectures
+3. watching american sports
+4. reading sport news
