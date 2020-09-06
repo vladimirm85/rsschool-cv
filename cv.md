@@ -7,7 +7,7 @@
 **GitHub:** [@vladimirm85](https://github.com/vladimirm85)  
 
 ### Summary
-
+Beginning, but ambitious front end developer with good communication and time management skills. My priorities are experience and knowledge.
 
 
 ### Skills
@@ -24,7 +24,17 @@
 **SVN:** Git  
 
 ### Code examples
-
+```javascript
+const cake = (x, y) =>
+  [...y].reduce(
+    (a, char, index) =>
+      a + char.charCodeAt(0) - (index % 2 ? 96 : 0),
+    0
+  ) >
+  x * 0.7
+    ? 'Fire!'
+    : 'That was close!';
+```
 
 ### Experience
 1. [TODO](https://github.com/vladimirm85/REACT-TODO) - ReactJS, Redux Thunk, React Router; [BE](https://github.com/vladimirm85/HerokuServerForTodo)
