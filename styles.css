@@ -1,0 +1,28 @@
+body {
+  max-width: 1024px;
+  margin: 0 auto;
+  font-size: 18px;
+}
+
+p, pre {
+  margin: 0;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.contacts {
+  display: flex;
+}
+
+.contacts section {
+  margin-left: 30px;
+}
